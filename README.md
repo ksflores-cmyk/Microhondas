@@ -1,32 +1,27 @@
-# \# Microhondas — Arquitectura de Computadoras y Microcontroladores
+# Microhondas — Arquitectura de Computadoras y Microcontroladores
 
-# 
+\*\*Nombre:\*\* Kevin Sebastian Flores Lopez  
 
-# \*\*Nombre:\*\* Kevin Sebastian Flores Lopez  
+\*\*Carnet:\*\* 17068  
 
-# \*\*Carnet:\*\* 17068  
+\*\*Facultad:\*\* FING  
 
-# \*\*Facultad:\*\* FING  
+\*\*Carrera:\*\* Ingeniería Electrónica y Telecomunicaciones  
 
-# \*\*Carrera:\*\* Ingeniería Electrónica y Telecomunicaciones  
+\*\*Curso:\*\* Arquitectura de Computadoras y Microcontroladores  
 
-# \*\*Curso:\*\* Arquitectura de Computadoras y Microcontroladores  
+\*\*Catedrático:\*\* Ing. Víctor Vargas  
 
-# \*\*Catedrático:\*\* Ing. Víctor Vargas  
+\*\*Tarea:\*\* Microhondas
 
-# \*\*Tarea:\*\* Microhondas
 
-# 
+---
 
-# ---
 
-# 
 
 # \## Video en YouTube
 
-# 
+- https://youtu.be/YCJiHqhelaM
 
-# \- https://youtu.be/YCJiHqhelaM
 
-# &nbsp; 
 
